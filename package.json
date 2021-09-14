@@ -28,13 +28,13 @@
     "popper": "^1.0.1",
     "popper.js": "^1.16.1",
     "sw-precache-webpack-plugin": "^1.0.0",
-    "webpack-bundle-analyzer": "^4.4.2",
-    "webpack-pwa-manifest": "^4.3.0"
+    "webpack-bundle-analyzer": "^4.4.2"
   },
   "devDependencies": {
     "file-loader": "^6.2.0",
     "webpack": "^4.46.0",
     "webpack-cli": "^4.8.0",
-    "webpack-dev-server": "^4.2.1"
+    "webpack-dev-server": "^4.2.1",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
